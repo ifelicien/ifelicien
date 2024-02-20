@@ -1,0 +1,9 @@
+:root {
+    --white: #ffffff;
+    --black: #000000;
+    --grey: #5c5c5c;
+}
+
+.footer p{
+    text-align: center;
+    }
