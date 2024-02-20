@@ -1,7 +1,7 @@
 import Header from './Header/Header.jsx'
 import Footer from './Footer/Footer.jsx'
-// import About from './Footer/About.jsx'
-// import Projects from './Footer/Projects.jsx'
+// import About from './About/About.jsx'
+import Projects from './Projects/Projects.jsx'
 // import Skills from './Footer/Skills.jsx'
 // import Education from './Footer/Education.jsx'
 // import Contacts from './Footer/Contacts.jsx'
@@ -11,7 +11,7 @@ function App() {
     <>
     <Header/>
     {/* <About/> */}
-    {/* <Projects/> */}
+    <Projects/>
     {/* <Skills/> */}
     {/* <Education/> */}
     {/* <Contacts/> */}
