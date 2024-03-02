@@ -4,11 +4,6 @@
     --grey: #5c5c5c;
 }
 
-.footer {
-    position: sticky;
-    bottom: 0;
-}
-
 .footer p{
     text-align: center;
 }

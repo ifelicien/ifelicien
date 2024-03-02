@@ -5,8 +5,7 @@
     --font-medium: 1.6rem;
 }
 
-.title {
-    color: var(--black);
+.skills {
     text-align: center;
     font-size: var(--font-medium);
 }

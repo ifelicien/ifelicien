@@ -2,6 +2,7 @@
   --white: #ffffff;
   --black: #000000;
   --grey: #5c5c5c;
+  --font-medium: 1.6rem;
 }
 
 .projects {
@@ -10,9 +11,9 @@
   border-radius: 5px;
   box-shadow: 5px 5px 5px var(--grey);
   padding: 20px;
-  margin: 10px;
+  margin-left: 5%;
   text-align: center;
-  width: auto;
+  width: 20%;
   height: auto;
   display: inline-block;
   font-family: "Roboto";
