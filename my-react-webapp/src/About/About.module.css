@@ -1,0 +1,22 @@
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --grey: #5c5c5c;
+}
+
+.about {
+  color: var(--black);
+}
+
+.about img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.about p {
+  font-size: 1.3rem;
+  text-align: center;
+  padding: 5%;
+  margin: 2%;
+}

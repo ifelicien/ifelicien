@@ -1,0 +1,11 @@
+:root{
+    --white: #ffffff;
+    --black: #000000;
+    --grey: #5c5c5c;
+}
+
+.title {
+    color: var(--black);
+    text-align: center;
+    font-size: 1.6rem;
+}
