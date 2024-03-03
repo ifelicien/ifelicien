@@ -3,7 +3,7 @@ import Footer from "./Footer/Footer.jsx";
 import About from "./About/About.jsx";
 import Title from "./Title/Title.jsx";
 import Projects from "./Projects/Projects.jsx";
-import Skills from './Skills/Skills.jsx'
+import Skills from './Skills/Skills.jsx';
 // import Education from './Education/Education.jsx'
 // import Contacts from './Contacts/Contacts.jsx'
 
@@ -12,7 +12,7 @@ function App() {
     <>
       <Header />
       <About />
-      <Title sectionName="Solo-Projects" />
+      <Title sectionName="Solo-Projects:" />
       <Projects
         image="https://placehold.jp/250x250.png"
         name="Shop Tracker"
@@ -23,7 +23,7 @@ function App() {
         name="Research Assistant"
         summary="a small summary of the Machine Learning Research"
       />
-      <Title sectionName="Class-Projects" />
+      <Title sectionName="Class-Projects:" />
       <Projects
         image="https://placehold.jp/250x250.png"
         name="CLI Vending Machine"
@@ -34,8 +34,11 @@ function App() {
         name="Capstone Project"
         summary="Summary of Capstone Group Project"
       />
+      <Title sectionName="Skills:" />
       <Skills/>
+      <Title sectionName="Education:" />
       {/* <Education/> */}
+      <Title sectionName="Contacts:" />
       {/* <Contacts/> */}
       <Footer />
     </>
