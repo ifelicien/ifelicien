@@ -1,3 +1,4 @@
+// import Background from "./Background/Ball.jsx";
 import Header from "./Header/Header.jsx";
 import Footer from "./Footer/Footer.jsx";
 import About from "./About/About.jsx";
@@ -10,6 +11,7 @@ import Skills from './Skills/Skills.jsx';
 function App() {
   return (
     <>
+      {/* <Background /> */}
       <Header />
       <About />
       <Title sectionName="Solo-Projects:" />

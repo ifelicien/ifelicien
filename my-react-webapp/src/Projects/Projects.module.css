@@ -13,8 +13,8 @@
   padding: 20px;
   margin-left: 5%;
   text-align: center;
-  width: 20%;
-  height: auto;
+  width: 30vh;
+  /* height: 20vh; */
   display: inline-block;
   font-family: "Roboto";
 }
