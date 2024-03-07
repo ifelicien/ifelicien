@@ -2,13 +2,14 @@
     --white: #ffffff;
     --black: #000000;
     --grey: #5c5c5c;
+    --green:#55d6aa
 }
 
 .header{
     display:flex;
     justify-content: space-between;
     align-items: center;
-    background-color: var(--white);
+    background: var(--green);
     color: var(--black);
     padding: 0;
     text-align: center;   
